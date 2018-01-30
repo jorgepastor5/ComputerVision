@@ -1,0 +1,6 @@
+﻿  Clase1.1.cpp
+c:\users\georg\desktop\proyecto percepcion\clase1.1\clase1.1\clase1.1.cpp(58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\georg\desktop\proyecto percepcion\clase1.1\clase1.1\clase1.1.cpp(68): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\georg\desktop\proyecto percepcion\clase1.1\clase1.1\clase1.1.cpp(212): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Clase1.1.vcxproj -> C:\Users\georg\Desktop\Proyecto Percepcion\Clase1.1\x64\Debug\Clase1.1.exe
+  Clase1.1.vcxproj -> C:\Users\georg\Desktop\Proyecto Percepcion\Clase1.1\x64\Debug\Clase1.1.pdb (Partial PDB)

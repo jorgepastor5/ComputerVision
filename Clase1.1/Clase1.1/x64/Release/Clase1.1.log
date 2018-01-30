@@ -1,0 +1,7 @@
+﻿  Clase1.1.cpp
+Clase1.1.cpp(13): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'const char [12]' (o bien no existe una conversión aceptable)
+  C:\opencv\build\include\opencv2/core/mat.inl.hpp(1325): note: puede ser 'cv::Mat &cv::Mat::operator =(cv::Mat &&)'
+  C:\opencv\build\include\opencv2/core/mat.hpp(1221): note: o       'cv::Mat &cv::Mat::operator =(const cv::Scalar &)'
+  C:\opencv\build\include\opencv2/core/mat.inl.hpp(3258): note: o       'cv::Mat &cv::Mat::operator =(const cv::MatExpr &)'
+  C:\opencv\build\include\opencv2/core/mat.inl.hpp(696): note: o       'cv::Mat &cv::Mat::operator =(const cv::Mat &)'
+  Clase1.1.cpp(13): note: al hacer coincidir la lista de argumentos '(cv::Mat, const char [12])'
